@@ -1,5 +1,3 @@
-# modelo-regressao-linear-avaliacao-imobiliaria
-
 # Modelo de Regressão Linear para Avaliação Imobiliária em Vitória-ES
 
 ## Descrição do Projeto
